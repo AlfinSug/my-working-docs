@@ -48,6 +48,7 @@
   <field id="56" value="TLKM    TLKM    127369366001                  "/>
   <field id="102" value="2000001719"/>
 </isomsg>
+```xml
 
 **Posting :**
 
