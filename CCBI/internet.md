@@ -1,9 +1,9 @@
-# Bit Of Payment
+### Internet
 
-<h3>Internet</h3>
-<p>Inquiry :</p>
-<code>
- <isomsg>
+**Inquiry:**
+
+```xml
+<isomsg>
   <!-- org.jpos.iso.packager.GenericPackager[/opt/isopack_pac/iso-packager.xml] -->
   <field id="0" value="0200"/>
   <field id="3" value="482000"/>
@@ -48,4 +48,3 @@
   <field id="56" value="TLKM    TLKM    127369366001                  "/>
   <field id="102" value="2000001719"/>
 </isomsg>
-</code>
