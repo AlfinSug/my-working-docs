@@ -48,8 +48,7 @@
   <field id="56" value="TLKM    TLKM    127369366001                  "/>
   <field id="102" value="2000001719"/>
 </isomsg>
-
-## And this posting!
+```
 
 **Posting :**
 
@@ -104,3 +103,4 @@
   <field id="120" value="{&quot;coreReff&quot;:&quot;FT213075M2QJ&quot;}"/>
   <field id="121" value="{&quot;coreReff&quot;:&quot;FT213075M2QJ&quot;}"/>
 </isomsg>
+```
